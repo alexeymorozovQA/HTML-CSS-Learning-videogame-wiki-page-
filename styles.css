@@ -6,10 +6,21 @@ h1 {
 	color:black;text-align:center
 }
 
+.navigationBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 #Nagigation {
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
     overflow: hidden;
     background-color: #333333;
